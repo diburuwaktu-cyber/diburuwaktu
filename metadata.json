@@ -1,0 +1,5 @@
+{
+  "name": "Photo Caption Studio",
+  "description": "An application to easily add captions to your images. You can upload images from your computer or Google Drive, and add text from a spreadsheet.",
+  "requestFramePermissions": []
+}
